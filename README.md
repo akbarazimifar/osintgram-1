@@ -53,8 +53,5 @@ All in one Instagram hacking tool available (Insta information gathering, Insta 
 * `bash setup.sh`
 * `bash insta-hack.sh`
 
-## MENGCAPE...
-## :)
-
 ## Warning:
 #### This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases
