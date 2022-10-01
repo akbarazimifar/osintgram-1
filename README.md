@@ -11,27 +11,27 @@ All in one Instagram hacking tool available (Insta information gathering, Insta 
 
 ## Requirements
 - Data connection
-- Internet 200MB
-- storage 400MB
+- Internet 2GB
+- storage 1.5GB
 - No Root
 
 ## Available On
 - Termux
 - Kali Linux
-- Ubuntu
-- Parrot OS
-- Raspberry Pi
+- BlackArch (coming soon)
 
 ## Test On:
-- Termux : Samsung S22 Ultra 5G
-- Kali Linux : MSI Pulse GL76 (Windows 11)
+- Termux : OPPO Reno 7 
+- Kali Linux : MSI Alpha 15 (Windows 11)
 
-## INSTALLATION [Kali Linux]
+## INSTALLATION [Kali Linux] 
+#####(Min. Windows >= 8 64-bit)
+##### (Min. RAM 4 GB or Above) 
 
 * `sudo apt install python`
 * `sudo apt install python2`
 * `sudo apt install git`
-* `git clone https://github.com/vvxxrrvvx/0S1NTGRAM.git`
+* `git clone https://github.com/vvxxrrvvx/osintgram.git`
 * `ls`
 * `cd 0S1NTGRAM`
 * `pip3 install -r requirements.txt`
@@ -39,13 +39,14 @@ All in one Instagram hacking tool available (Insta information gathering, Insta 
 * `sudo bash insta-hack.sh`
 
 ## INSTALLATION [Termux]
+##### (Min. Android >= 10)
 
 * `apt update`
 * `apt upgrade`
 * `pkg install python`
 * `pkg install python2`
 * `pkg install git`
-* `git clone https://github.com/vvxxrrvvx/0S1NTGRAM`
+* `git clone https://github.com/vvxxrrvvx/osintgram`
 * `ls`
 * `cd 0S1NTGRAM`
 * `pip3 install -r requirements.txt`
