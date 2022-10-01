@@ -25,7 +25,7 @@ All in one Instagram hacking tool available (Insta information gathering, Insta 
 - Kali Linux : MSI Alpha 15 (Windows 11)
 
 ## INSTALLATION [Kali Linux] 
-#####(Min. Windows >= 8 64-bit)
+##### (Min. Windows >= 8 64-bit)
 ##### (Min. RAM 4 GB or Above) 
 
 * `sudo apt install python`
